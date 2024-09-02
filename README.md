@@ -1,8 +1,8 @@
-# Нормальное, ассиметричное распределение
+# Normal, asymmetric distribution
 
-Нахождение:
-* Среднего отклонения;
-* Дисперсии;
-* Медианы;
-* 75-процентиль;
-* 25-процентиль;
+Finding:
+* Mean deviation;
+* Variance;
+* Median;
+* 75th percentile;
+* 25th percentile.
